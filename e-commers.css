@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-size: 100vh;
+    background-color: #ffffff;
+}
+
+.logo_image {
+    height: 38px;
+    width: 100px;
+}
+
+.services-bg {
+    background-color: #ffffff;
+}
+
+.services_heading {
+    font-family: Roboto;
+    font-size: 35px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.services_para {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #616c7c;
+}
+
+.services-image {
+    width: 75px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.services-card {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.services-heading {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #1f2933;
+    font-weight: 200;
+}
+
+.services-para {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.products-bg {
+    background-color: #ffffff;
+}
+
+.products-cards {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.products-cards-two {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.view-button {
+    background-color: #ffffff;
+    color: #ff9f00;
+    font-size: 13px;
+    font-family: Roboto;
+    border-radius: 30px;
+    height: 35px;
+    width: 90px;
+    border-style: none;
+}
+
+.product-main-heading {
+    font-size: 35px;
+    font-family: Roboto;
+    font-weight: 700;
+    color: #183b56;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+p {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.arrow-properties {
+    color: #ff9f00;
+}
+
+.link {
+    color: #ff9f00;
+    font-weight: 500;
+}
+
+.offers-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.special-offer-image {
+    width: 100%;
+}
+
+.offers_heading {
+    font-family: Bree Serif;
+    font-size: 25px;
+    color: #ad2167;
+}
+
+.offers_para {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+span {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.trending-blogs-bg {
+    background-color: #ffffff;
+}
+
+.trending-blogs-heading {
+    font-family: Roboto;
+    font-size: 30px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.blogs-card {
+    background-color: #ffffff;
+}
+
+.blogs-image {
+    width: 100%;
+}
+
+.fountain-pens-heading {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #959ead;
+}
+
+.blogsheading {
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.bolgspara {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #959ead;
+}
+
+.read-more-link {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.read-more-arrow {
+    color: #ff9f00;
+}
+
+.deals-pages-bg {
+    background-color: #edf5f4;
+}
+
+.electronics-deals-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.all-deals-heading {
+    font-size: 35px;
+    font-family: Roboto;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.explore-delas-heading {
+    font-size: 23px;
+    font-family: Roboto;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.electronics-deals-card-image {
+    height: 100px;
+    width: 110px;
+    border-radius: 20px;
+}
+
+.explore-delas-para {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #1f2933;
+    padding-top: 15px;
+}
+
+.Deals-link {
+    color: #ff9f00;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.arrow-color {
+    color: #ff9f00;
+}
+
+.appliances-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.footer-section-bg {
+    background-color: #0d2436;
+}
+
+.footer-image-logo {
+    height: 50px;
+    width: 130px;
+    margin-bottom: 20px;
+}
+
+.footer_logos {
+    color: #bfcbde;
+    font-size: 20px;
+}
+
+.background-of-logos {
+    background-color: #152c3e;
+    padding: 10px;
+    height: 42px;
+    width: 45px;
+    border-radius: 30px;
+    margin-right: 8px;
+    margin-bottom: 20px;
+}
+
+.footer-address {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #bfcbde;
+}
+
+.footer-headings {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #5a7184
+}
+
+.list-style {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #5a7184;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.line-color {
+    background-color: #5a7184;
+}
+
+.c-color {
+    color: #5a7184;
+}
+
+.footer-authur {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #bfcbde;
+}
